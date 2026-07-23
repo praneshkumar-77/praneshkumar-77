@@ -198,36 +198,36 @@ Cloud Computing         ████████░░░░░░░░░░�
 
 # 🌍 Connect With Me
 
-<p align="center">
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="YOUR_LEETCODE">
-<img src="https://skillicons.dev/icons?i=leetcode"/>
-</a>
-
-</p>
-
----
-
 <div align="center">
 
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="YOUR_LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="YOUR_LEETCODE">
+  <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="YOUR_HACKERRANK">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg"
+       width="48"
+       height="48"
+       alt="HackerRank"/>
+</a>
+
+</div>
 ## 💬 Favorite Quote
 
 > **"Every expert was once a beginner. Keep learning, keep building, and never stop growing."**
