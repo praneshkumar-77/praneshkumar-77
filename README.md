@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/praneshkumar-77/praneshkumar-77/main/banner.png" width="100%" />
-</p>
+<img src="https://raw.githubusercontent.com/praneshkumar-77/praneshkumar-77/main/ChatGPT%20Image%20Jul%2028,%202026,%2003_27_34%20PM.png" width="100%">
 <div align="center">
 
 # 👋 Hello, I'm **Pranesh Kumar S**
