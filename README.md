@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/praneshkumar-77/praneshkumar-77/main/banner.png" width="100%" />
+</p>
 <div align="center">
 
 # 👋 Hello, I'm **Pranesh Kumar S**
