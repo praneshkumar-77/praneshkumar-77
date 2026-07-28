@@ -238,8 +238,13 @@ Cloud Computing          ████████░░░░░░░░░░�
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=praneshkumar-77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneshkumar-77&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- ✅ Correct -->
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=praneshkumar-77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+  <!-- ✅ Correct -->
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneshkumar-77&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -247,17 +252,9 @@ Cloud Computing          ████████░░░░░░░░░░�
 ## 🔥 GitHub Streak
 
 <p align="center">
+  <!-- ✅ Correct -->
   <img src="https://streak-stats.demolab.com?user=praneshkumar-77&theme=tokyonight&hide_border=true" />
 </p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praneshkumar-77&theme=tokyo-night" alt="Contribution Graph" />
-</p>
-
-
----
 
 # ⚡ Developer Philosophy
 
