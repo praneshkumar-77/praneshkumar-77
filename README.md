@@ -236,19 +236,6 @@ Cloud Computing          ████████░░░░░░░░░░�
 - 💼 Get Placed in a Top Product Company
 
 ---
-## 📊 GitHub Analytics
-
-<p align="center">
-  <!-- ✅ Correct -->
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=praneshkumar-77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-  <!-- ✅ Correct -->
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneshkumar-77&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
