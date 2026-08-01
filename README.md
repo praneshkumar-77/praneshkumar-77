@@ -218,16 +218,11 @@ Cloud Computing          ████████░░░░░░░░░░�
 - 💼 Prepare for Product-Based Companies
 
 ---
-## 🔗 Coding Profile
+## 💻 LeetCode
 
-<div align="center">
-
-<a href="https://leetcode.com/u/praneshkumar-77/">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
-</a>
-
-</div>
----
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=praneshkumar-77&theme=Dark" />
+</p>
 
 ## 🔥 GitHub Streak
 
