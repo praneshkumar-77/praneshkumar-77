@@ -221,7 +221,9 @@ Cloud Computing          ████████░░░░░░░░░░�
 ## 💻 LeetCode
 
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=praneshkumar-77&theme=Dark" />
+  <a href="https://leetcode.com/u/praneshkumar-77/">
+    <img src="https://img.shields.io/badge/LeetCode-praneshkumar--77-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 ## 🔥 GitHub Streak
