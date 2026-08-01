@@ -218,23 +218,15 @@ Cloud Computing          ████████░░░░░░░░░░�
 - 💼 Prepare for Product-Based Companies
 
 ---
+## 🔗 Coding Profile
 
-# 🎯 2026 Goals
+<div align="center">
 
-- 🚀 Solve 500+ DSA Problems
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
+</a>
 
-- 💻 Master Spring Boot
-
-- 🤖 Build Production-Level AI Applications
-
-- 🌐 Deploy Full Stack Projects
-
-- ☁ Learn AWS Cloud
-
-- 📚 Contribute to Open Source
-
-- 💼 Get Placed in a Top Product Company
-
+</div>
 ---
 
 ## 🔥 GitHub Streak
