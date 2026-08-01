@@ -222,7 +222,7 @@ Cloud Computing          ████████░░░░░░░░░░�
 
 <div align="center">
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/u/praneshkumar-77/">
   <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
 </a>
 
